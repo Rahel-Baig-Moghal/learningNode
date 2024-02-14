@@ -1,0 +1,4 @@
+Here is the result : first text file, second text file
+Here is the result : first text file, second text file
+Here is the result : first text file, second text file
+Result from async-read and write : first text file, second text file
